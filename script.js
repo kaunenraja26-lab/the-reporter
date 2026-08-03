@@ -1,6 +1,6 @@
 const news = document.getElementById("news");
 
-const API_KEY = "YOUR_API_KEY";
+const API_KEY = "71a113c54d5d6cfc5adb9707229090ef";
 
 async function loadNews() {
   try {
